@@ -1,0 +1,24 @@
+{
+  "name": "bubblesortjs",
+  "version": "0.0.1",
+  "description": "node bubble sort with predicate function",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.spec.js"
+  },
+  "keywords": [
+    "bubble",
+    "sort",
+    "algorithm",
+    "node"
+  ],
+  "author": "Peter O'Reilly",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "4.2.0",
+    "mocha": "6.2.1"
+  },
+  "dependencies": {
+    "ndb": "1.1.5"
+  }
+}
