@@ -17,7 +17,7 @@
     "node"
   ],
   "author": "Peter O'Reilly",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "chai": "4.2.0",
     "mocha": "6.2.1"
