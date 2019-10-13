@@ -1,15 +1,15 @@
-# Bubblesortjs
+# node-bubsort
 
 A node implementation of buble sort with user defined predicate function
 
 ```
-npm install bubblesortjs
+npm install node-bubsort
 ```
 
 Usage:
 
 ```
-const bubble = require('bubblesortjs');
+const bubble = require('node-bubsort');
 
 const { result, count } = bubble.sort([2, 1, 3]);
 // result => [1, 2, 3]
