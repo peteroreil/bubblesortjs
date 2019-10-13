@@ -1,11 +1,11 @@
 {
   "name": "node-bubsort",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "node bubble sort with predicate function",
   "main": "index.js",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/peteroreil/bubblesortjs.git"
+    "type": "git",
+    "url": "https://github.com/peteroreil/bubblesortjs.git"
   },
   "scripts": {
     "test": "mocha test/*.spec.js"
