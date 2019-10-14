@@ -1,6 +1,6 @@
 # node-bubsort
 
-A node implementation of buble sort with user defined predicate function
+A node implementation of bubble sort with user defined predicate function
 
 ```
 npm install node-bubsort
